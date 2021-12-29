@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi everyone 👋, 
+I'm a passionate French #webdeveloper ! I share my projects, my inspirations, my tips and more.
 
 <!--
 **titouanthd/titouanthd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
