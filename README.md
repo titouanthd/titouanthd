@@ -16,8 +16,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=titouanthd.titouanthd)
 <br />
 
-My name is [Titouan thd](https://siclem.fr/), and I am a pasionate self-taught full-stack web developer (and passionate about it). I have been working as a freelance developer for the last 5 years for companies all around the world (full remote).
-My ambition is to create something that will potentially transform the daily lives of developers. I am constantly learning and using new methods of development to offer solutions that are always better suited to our projects.
+My name is [Titouan thd](https://siclem.fr/), and I'm a pasionate self-taught full-stack web developer. I have been working as a freelance developer for the last 5 years for companies all around the world (always on remote).
+My ambition is to create something that will potentially transform the daily lives of developers. I'm constantly learning and using new methods of development to offer solutions that are always better suited to our projects.
 I particularly enjoy using AI and blockchain technology to create the web of the future.
 I take great care to test and improve the quality of what I build.
 
