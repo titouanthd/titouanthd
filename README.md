@@ -13,7 +13,7 @@
   <img align="left" alt="Titouan Thd LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=titouanthd.titouanthd)
+[![](https://visitcount.itsvg.in/api?id=titouanthd&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <br />
 
 My name is [Titouan thd](https://siclem.fr/), and I'm a pasionate self-taught full-stack web developer. I have been working as a freelance developer for the last 6 years for companies all around the world (always on remote).
