@@ -12,8 +12,6 @@
 <a href="https://www.linkedin.com/in/titouanthd/">
   <img align="left" alt="Titouan Thd LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-[![](https://visitcount.itsvg.in/api?id=titouanthd&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <br />
 
 My name is [Titouan thd](https://siclem.fr/), and I'm a pasionate self-taught full-stack web developer. I have been working as a freelance developer for the last 6 years for companies all around the world (always on remote).
@@ -40,6 +38,8 @@ I am also a fan of open-source. I hope to be able to give back to the open-sourc
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png"></code>
 
 **📈 My github stats**
+
+[![](https://visitcount.itsvg.in/api?id=titouanthd&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ![titouanthd GitHub stats](https://github-readme-stats.vercel.app/api?username=titouanthd&show_icons=true&theme=radical&hide_border=true)
 
