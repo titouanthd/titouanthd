@@ -13,9 +13,7 @@
   <img align="left" alt="Titouan Thd LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>-->
 
-[![](https://visitcount.itsvg.in/api?id=titouanthd&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-<br />
+<!--[![](https://visitcount.itsvg.in/api?id=titouanthd&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)-->
 
 My name is [Titouan thd](https://siclem.fr/), and I'm a pasionate self-taught full-stack web developer. I have been working as a freelance developer for the last 6 years for companies all around the world (always on remote).
 My ambition is to create something that will potentially transform the daily lives of developers. I'm constantly learning and using new methods of development to offer solutions that are always better suited to our projects.
