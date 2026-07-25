@@ -40,6 +40,4 @@ I am also a fan of open-source. I hope to be able to give back to the open-sourc
 
 **📈 My github stats**
 
-![titouanthd GitHub stats](https://github-readme-stats.vercel.app/api?username=titouanthd&show_icons=true&theme=radical&hide_border=true)
-
 [![titouanthd GitHub Streak](https://streak-stats.demolab.com?user=titouanthd&theme=radical&hide_border=true&mode=weekly)](https://git.io/streak-stats)
